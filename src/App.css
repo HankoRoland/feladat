@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100vh;
+  height: 100vh;
+  margin: auto;
+  padding: 10px;
+}
+
+.chars-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: max-content;
+  gap: 5px;
+}
+
+.filter-container {
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding: 5px;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+
+h4 {
+  margin: 0;
+}
+
+h1 {
+  color: rgb(226, 14, 14);
+  font-size: 45px;
+}
+
+p {
+  font-weight: bolder;
+  font-size: 30px; 
+
+}
+button:hover {
+  border: 2px solid #121311;
+  transform: scale(1.02);
+  cursor: pointer
+}
