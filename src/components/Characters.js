@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 
+
 const Characters = ({characters}) => {
 
   const [show, setShow] = useState(false)
@@ -13,6 +14,8 @@ const Characters = ({characters}) => {
           >
 
           <h2>{characters.name} </h2>
+          
+          <img className="photo" src={characters.image} alt={characters.name}/>
 
           <h3>{characters.nickname}</h3>
 
@@ -27,6 +30,6 @@ const Characters = ({characters}) => {
 
         </div>
       )} 
-;
+
 
 export default Characters;

@@ -1,8 +1,8 @@
 [
-  { "name": "Mark Renton", "nickname": "Renton", "gender": "Male", "addict": "Heroin", "stillalive": true, "actor": "Ewan McGregor"},
-  { "name": "Simon Williamson", "nickname": "Sick Boy", "gender": "Male", "addict": "Heroin", "stillalive": true, "actor": "Jonny Lee Miller"},
-  { "name": "Daniel Murphy", "nickname": "Spud", "gender": "Male", "addict": "Heroin", "stillalive": true, "actor": "Ewen Bremner"},
-  { "name": "Francis Begbie", "nickname": "Begbie", "gender": "Male", "addict": "Alcohol", "stillalive": true, "actor": "Robert Carlyle"},
-  { "name": "Tommy MacKenzie", "nickname": "Tommy Boy", "gender": "Male", "addict": "Heroin", "stillalive": false, "actor": "Kevin McKidd"},
-  { "name": "Diane Coulston", "nickname": "Diane", "gender": "Female", "addict": "None", "stillalive": true, "actor": "Kelly Macdonald"}
+  { "name": "Mark Renton", "image": "img/Renton.jpg", "nickname": "Renton", "gender": "Male", "addict": "Heroin", "stillalive": true, "actor": "Ewan McGregor"},
+  { "name": "Simon Williamson", "image": "img/SickBoy.jpg", "nickname": "Sick Boy", "gender": "Male", "addict": "Heroin", "stillalive": true, "actor": "Jonny Lee Miller"},
+  { "name": "Daniel Murphy", "image": "img/Spud.jpg", "nickname": "Spud", "gender": "Male", "addict": "Heroin", "stillalive": true, "actor": "Ewen Bremner"},
+  { "name": "Francis Begbie", "image": "img/Begbie.jpg", "nickname": "Begbie", "gender": "Male", "addict": "Alcohol", "stillalive": true, "actor": "Robert Carlyle"},
+  { "name": "Tommy MacKenzie", "image": "img/Tommy.jpg", "nickname": "Tommy Boy", "gender": "Male", "addict": "Heroin", "stillalive": false, "actor": "Kevin McKidd"},
+  { "name": "Diane Coulston", "image": "img/Diane.jpg", "nickname": "Diane", "gender": "Female", "addict": "None", "stillalive": true, "actor": "Kelly Macdonald"}
 ]

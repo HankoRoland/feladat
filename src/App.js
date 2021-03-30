@@ -22,7 +22,7 @@ function App() {
     fetchData();
   }, []);
 
-  
+
   const [filterGender, setFilterGender] = useState("")
   const [filterAddict, setFilterAddict] = useState("")
 
